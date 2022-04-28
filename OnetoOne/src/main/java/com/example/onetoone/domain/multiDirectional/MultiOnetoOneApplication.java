@@ -19,10 +19,10 @@ public class MultiOnetoOneApplication {
             Person.class));
 
     public static void main(String[] args) {
-        unidirectionalTest();
+        multidirectionalTest();
     }
 
-    public static void unidirectionalTest(){
+    public static void multidirectionalTest(){
 
         Session session=null;
         Transaction tx=null;
