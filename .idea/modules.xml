@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Associations.iml" filepath="$PROJECT_DIR$/.idea/Associations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneToMany/OneToMany.iml" filepath="$PROJECT_DIR$/OneToMany/OneToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnetoOne/OnetoOne.iml" filepath="$PROJECT_DIR$/OnetoOne/OnetoOne.iml" />
+    </modules>
+  </component>
+</project>
